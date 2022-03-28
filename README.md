@@ -1,4 +1,3 @@
 # DS
 Project from kaggle
-
-Most importantly: OFFER!!!!!!!!!!!
+Share my thoughts and methods when dealing with the datas.
